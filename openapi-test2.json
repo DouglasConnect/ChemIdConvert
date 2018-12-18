@@ -33,7 +33,7 @@
   ],
   "info": {
     "title": "ChemIdConvert - Chemical identifier conversion service",
-    "description": "This REST Api allows you to submit chemical identifiers in one format and translate it into another format (e.g. SMILES -> InChi)",
+    "description": "This REST Api allows you to submit chemical identifiers in one format and translate it into another format (e.g. SMILES -> InChI)",
     "version": "1.0.0"
   },
   "paths": {
