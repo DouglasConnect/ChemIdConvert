@@ -13,7 +13,7 @@ x-orn-@id: 'https://chemidconvert/v2'
 x-orn-@type: 'x-orn:Service'
 info:
   description: "This REST Api allows you to submit chemical identifiers in one format\
-    \ and translate it into another format (e.g. SMILES -> InChi)"
+    \ and translate it into another format (e.g. SMILES -> InChI)"
   version: "1.0.0"
   title: "ChemIdConvert - Chemical identifier conversion service"
 host: "chemidconvert.cloud.douglasconnect.com"
